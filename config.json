@@ -1,0 +1,5 @@
+{
+  "level": "info",
+  "parser": "json",
+  "output": "logs.json"
+}
